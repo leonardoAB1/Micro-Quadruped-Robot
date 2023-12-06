@@ -1,0 +1,32 @@
+# Ignore build output
+/build/
+
+# Ignore generated documentation
+/doc/
+
+# Ignore IDE and editor files
+.vscode/
+.devcontainer/
+
+# Ignore dependencies lock file
+dependencies.lock
+
+# Ignore configuration files
+config/wifi.config
+main/config.h
+
+# Ignore compiled binaries
+*.out
+*.bin
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore SDK configuration files
+sdkconfig
+sdkconfig.ci
