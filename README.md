@@ -5,19 +5,6 @@ This project aims to construct an educational and low-cost micro quadruped robot
 ## Keywords
 Mechanical Design, Quadruped Robot, Forward Kinematics, Inverse Kinematics, MATLAB, Simulation.
 
-## Table of Contents
-- [Project Structure](#project-structure)
-- [Authors](#authors)
-- [Abstract](#abstract)
-- [Keywords](#keywords)
-- [Introduction](#introduction)
-- [Background](#background)
-- [Objectives](#objectives)
-- [Nomenclature](#nomenclature)
-- [Mechanical Design](#mechanical-design)
-- [Electronic Design](#electronic-design)
-- [Kinematic Analysis](#kinematic-analysis)
-
 ## Authors
 - Leonardo Acha Boiano
 - Bruno Ramiro Rejas Montero
