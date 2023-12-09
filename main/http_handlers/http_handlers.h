@@ -19,6 +19,7 @@
 #include <esp_http_server.h>
 
 #include "../logging/logging_utils.h"
+#include "../servo_driver/servo_driver.h"
 
 /**
  * @brief       HTTP request handler for getting the camera status.
@@ -26,6 +27,7 @@
  * @return      An esp_err_t indicating the success or failure of the operation.
  */
 esp_err_t status_httpd_handler(httpd_req_t *req);
+esp_err_t move_M1A_handler(httpd_req_t *req);
 
 #endif  // HTTP_HANDLERS_H
 

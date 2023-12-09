@@ -33,6 +33,14 @@ void start_webserver(void)
             .user_ctx = NULL
         };
         httpd_register_uri_handler(server, &status_uri);
+
+        httpd_uri_t move_M1A_uri = {
+            .uri = "/M1A/move",
+            .method = HTTP_POST,
+            .handler = move_M1A_handler, //needs motor number as a header
+            .user_ctx = NULL
+        };
+        httpd_register_uri_handler(server, &move_M1A_uri);
     }
 }
 
