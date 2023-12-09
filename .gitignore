@@ -30,3 +30,4 @@ Thumbs.db
 # Ignore SDK configuration files
 sdkconfig
 sdkconfig.ci
+sdkconfig.old
