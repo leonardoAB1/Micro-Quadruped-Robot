@@ -44,6 +44,8 @@ The robot's hardware design includes an ESP32 microcontroller and servo motors f
 - [Gonzalo Peralta]()
 - [Andrés Ayala](https://github.com/mecatrono)
 
-Design done as a project for the subject of Robotics at the Catholic Bolivian University San Pablo (UCB) under [Msc Jose Jesus Cabrera Pantoja](https://github.com/cpjosejesus).
+### Supervisor
+- [José Jesús Cabrera Pantoja](https://github.com/cpjosejesus)
 
+---
 [![UCB](./media/logo_ucb.jpg)](https://www.ucb.edu.bo)
